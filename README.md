@@ -7,3 +7,4 @@ pkg install bash
 termux-setup-storage
 bash main.sh
 ```
+
